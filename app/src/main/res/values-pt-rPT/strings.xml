@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">MoviesApp</string>
+
+    <!-- Actions Screen -->
+    <string name="actions_screen_open_movies_list_view_button">Filmes</string>
+    <string name="actions_screen_open_series_list_view_button">Séries</string>
+    <string name="actions_screen_open_search_list_view_button">Pesquisa</string>
+
+    <!-- Movies List Screen -->
+    <string name="movies_list_screen_toolbar_title">TMDb</string>
+    <string name="movies_list_screen_toolbar_text_view">Filmes nos Cinemas</string>
+    <string name="footer_item_button">Mostrar mais</string>
+    <string name="header_item_text_view_date">Esta lista foi adicionada em:</string>
+
+    <!-- Tv Shows List Screen -->
+    <string name="tv_shows_list_screen_toolbar_text_view">Séries</string>
+
+    <!-- Search Movies Screen -->
+    <string name="search_movies_screen_toolbar_text_view">Procurar filmes</string>
+    <string name="search_movies_screen_edit_text_hint">Procurar</string>
+    <string name="search_movies_screen_no_results_text_view">Não há resultados a apresentar!</string>
+
+    <!-- Movies Details Screen -->
+    <string name="movie_details_screen_language_label">Linguagem:</string>
+    <string name="movie_details_screen_genre_label">Género(s):</string>
+    <string name="movie_details_screen_release_date_label">Data de lançamento:</string>
+    <string name="movie_details_screen_overview_label">Resumo</string>
+    <string name="movie_details_screen_share">Partilhar</string>
+    <string name="movie_details_screen_share_title">Partilhar a informação do filme</string>
+
+    <!-- Movies Details Screen -->
+    <string name="tv_show_details_screen_share_title">Partilhar a informação da série</string>
+
+</resources>

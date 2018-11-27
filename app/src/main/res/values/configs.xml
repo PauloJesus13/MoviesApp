@@ -1,0 +1,4 @@
+<resources>
+    <string name="server_api_key">b6948414a6f42be3075eee653436b668</string>
+    <string name="server_endpoint">https://api.themoviedb.org/3</string>
+</resources>

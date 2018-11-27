@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/actionsScreenBackground"
+    android:orientation="vertical"
+    android:weightSum="3">
+
+    <!--<LinearLayout
+        android:id="@+id/actions_screen_open_movies_list_view"
+        style="@style/NewActionButtonStyle"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginBottom="10dp"
+            android:src="@drawable/ic_camera" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/actions_screen_open_movies_list_view_button"
+            android:textColor="@color/buttonTextColor"
+            android:textSize="22sp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/actions_screen_open_series_list_view"
+        style="@style/NewActionButtonStyle"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginBottom="10dp"
+            android:src="@drawable/ic_camera" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/actions_screen_open_series_list_view_button"
+            android:textColor="@color/buttonTextColor"
+            android:textSize="22sp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/actions_screen_open_search_list_view"
+        style="@style/NewActionButtonStyle"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginBottom="10dp"
+            android:src="@drawable/ic_loupe" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/actions_screen_open_search_list_view_button"
+            android:textAlignment="center"
+            android:textColor="@color/buttonTextColor"
+            android:textSize="20sp" />
+
+    </LinearLayout>-->
+
+    <LinearLayout
+        android:id="@+id/actions_screen_open_movies_list_view"
+        style="@style/FullWidthActionButtonStyle"
+        android:background="@drawable/linear_layout_border"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginBottom="10dp"
+            android:src="@drawable/ic_camera" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/actions_screen_open_movies_list_view_button"
+            android:textColor="@color/buttonTextColor"
+            android:textSize="22sp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/actions_screen_open_series_list_view"
+        style="@style/FullWidthActionButtonStyle"
+        android:background="@drawable/linear_layout_border"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginBottom="10dp"
+            android:src="@drawable/ic_clapperboard" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/actions_screen_open_series_list_view_button"
+            android:textColor="@color/buttonTextColor"
+            android:textSize="22sp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/actions_screen_open_search_list_view"
+        style="@style/FullWidthActionButtonStyle"
+        android:background="@drawable/linear_layout_border"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginBottom="10dp"
+            android:src="@drawable/ic_loupe" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/actions_screen_open_search_list_view_button"
+            android:textColor="@color/buttonTextColor"
+            android:textSize="20sp" />
+
+    </LinearLayout>
+
+</LinearLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

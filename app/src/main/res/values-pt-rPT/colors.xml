@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <!--<color name="colorAccent">#FF4081</color>-->
+    <color name="colorAccent">#EDC643</color>
+    <color name="statusBarColor">#080808</color>
+
+    <!-- ListView Items -->
+    <color name="itemsBackground">#080808</color>
+    <color name="itemsLabelTextColor">#fdfdfd</color>
+    <color name="listViewDivider">#8e8e8e</color>
+
+    <!-- Toolbar -->
+    <color name="toolbarColor">#EDC643</color>
+    <color name="toolbarTextView">#0b0a0a</color>
+
+    <!-- Buttons -->
+    <color name="buttonTextColor">#0b0a0a</color>
+
+    <!-- Movies Details Screen -->
+    <color name="movieDetailsBackground">#0b0a0a</color>
+
+    <!-- Splash Screen -->
+    <color name="splashScreenBackground">#0b0a0a</color>
+
+    <!-- Actions Screen -->
+    <color name="actionsScreenBackground">#1b1b1d</color>
+    <color name="actionsScreenButtons">#28272C</color>
+
+</resources>
